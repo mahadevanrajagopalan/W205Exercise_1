@@ -12,5 +12,5 @@ The best states in terms of health care are listed below.
 "WI"    0.007874015748031496
 
 The best states are the states with the most percentage of hospitals that are
-considered among the best with a high score and low mortality and readmission rate. We compute the best hospitals everywhere. We compute the total number of hospitals in each state. We compute the fraction of the total for each state that is considered the best. To arrive at the ranking we order the fraction in descending order.
+considered among the best with a high score and low mortality and readmission rate. We compute the best hospitals everywhere. We compute the total number of hospitals in each state. We compute the fraction of the total for each state that is considered the best. To arrive at the ranking we order the fraction in descending order.    
 
