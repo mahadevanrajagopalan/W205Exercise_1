@@ -1,0 +1,75 @@
+The best hospitals are those with a  high score on a number of procedures that they perform and have a low mortality and readmission rate (<10%) associated with the procedure. They provide a number of services including Emergency services.
+Please find below a list of the best hospitals first without emergency services and later with emergency services.
+
+Best hospitals without emergency services:
+
+providerid      average score         aggregate  standard deviation   mortality       Name of hospital
+                                                                      readmission
+                                                                       score
+                                        score
+"420102"        99.83333333333333       1198    0.3726779962499649      8.5    "GHS PATEWOOD
+
+MEMORIAL HOSPITAL"
+"030107"        99.81818181818181       1098    0.5749595745760689      9.0    "ARIZONA SPINE
+
+AND JOINT HOSPITAL"
+"170183"        99.81818181818181       1098    0.5749595745760689      8.0    "KANSAS SURGERY
+
+& RECOVERY CENTER"
+"450875"        99.66666666666667       1196    0.4714045207910317      8.5    "QUAIL CREEK
+
+SURGICAL HOSPITAL"
+"340049"        99.66666666666667       1196    0.6236095644623235      8.5    "NORTH CAROLINA
+
+SPECIALTY HOSPITAL"
+"170198"        99.55555555555556       896     0.9558139185602919      9.5    "SUMMIT SURGICAL
+
+LLC"
+"390322"        99.36363636363636       1093    1.7200807207658637      9.0    "Rothman Orthopaedic
+
+Specialty Hospital  LLC"
+"460049"        99.33333333333333       1192    1.247219128924647       8.5    "THE ORTHOPEDIC
+
+SPECIALTY HOSPITAL"
+"280127"        99.16666666666667       1190    1.9075871903765995      7.5    "LINCOLN SURGICAL
+
+HOSPITAL"
+"390327"        99.16666666666667       1190    1.9075871903765995      9.0    "WELLSPAN
+
+SURGERY AND REHABILITATION HOSPITAL"
+
+Best hospitals with emergency services:
+Total MapReduce CPU Time Spent: 4 seconds 450 msec
+OK
+"450875"        99.66666666666667       1196    0.4714045207910317      8.5    "QUAIL CREEK
+
+SURGICAL HOSPITAL"
+"340153"        98.83333333333333       1186    2.793842435706702       9.0    "NOVANT HEALTH
+
+CHARLOTTE ORTHOPEDIC HOSPITAL"
+"450796"        98.81818181818181       1087    1.5850541612875173      9.5    "NORTHWEST
+
+TEXAS SURGERY CENTER"
+"330270"        98.71428571428571       1382    2.4327694808466287      7.0    "HOSPITAL FOR
+
+SPECIAL SURGERY"
+"520196"        98.5    1182    3.227486121839514       9.0     "OAKLEAF SURGICAL HOSPITAL"
+"060124"        98.5    1182    4.406434688800762       8.5     "ORTHOCOLORADO HOSPITAL AT ST
+
+ANTHONY MED CAMPUS"
+"130065"        98.0909090909091        1079    5.160242162297591       9.5    "MOUNTAIN VIEW
+
+HOSPITAL"
+"370192"        97.27272727272727       1070    5.34434125698148        9.0    "NORTHWEST
+
+SURGICAL HOSPITAL"
+"450889"        97.18181818181819       1069    4.344655689217644       9.0    "TEXAS INSTITUTE
+
+FOR SURGERY AT PRESBYTERIAN HOSPIT"
+"450825"        96.5    1158    7.41057802513857        8.5     "CORNERSTONE REGIONAL
+
+HOSPITAL"
+
+
+
+

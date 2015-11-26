@@ -1,0 +1,15 @@
+The best states in terms of health care are listed below.
+
+"TX"    0.06896551724137931
+"CO"    0.05063291139240506
+"OK"    0.03937007874015748
+"ID"    0.023809523809523808
+"UT"    0.021739130434782608
+"AR"    0.012987012987012988
+"NE"    0.01098901098901099
+"NC"    0.009009009009009009
+"IN"    0.008
+"WI"    0.007874015748031496
+
+The best states are the states with the most percentage of hospitals that are
+considered among the best with a high score and low mortality and readmission rate. We compute the best hospitals everywhere. We compute the total number of hospitals in each state. We compute the fraction of the total for each state that is considered the best. To arrive at the ranking we order the fraction in descending order.
