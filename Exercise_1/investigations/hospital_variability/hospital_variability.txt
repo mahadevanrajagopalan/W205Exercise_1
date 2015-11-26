@@ -1,0 +1,16 @@
+Standard deviation from the mean highlighting the variance in score for procedures from hospital to hospital.
+SD:
+Total MapReduce CPU Time Spent: 14 seconds 580 msec
+OK
+Measure  standard deviation from mean
+"OP_23" 21.35980635397086
+"ED_2b" 21.104081068489883
+"STK_4" 19.79120821692303
+"AMI_7a"        18.7794213613377
+"OP_2"  18.048443797995763
+"OP_3b" 16.80597715447674
+"IMM_3_FAC_ADHPCT"      16.348047889323595
+"OP_21" 15.794834099319173
+"OP_20" 15.67571163110765
+"VTE_5" 15.620801254013033
+Time taken: 99.828 seconds, Fetched: 10 row(s)

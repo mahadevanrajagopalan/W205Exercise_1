@@ -1,0 +1,16 @@
+Output showing avg hospital score and survey score:
+providerid      average hospital score  survey score
+"010001"        92.1842105263158        17
+"010005"        90.0                                    51
+"010006"        88.89189189189189       9
+"010007"        86.84615384615384       40
+"010008"        71.58333333333333       30
+"010011"        92.97297297297297       11
+"010012"        90.24324324324324       31
+"010016"        93.84210526315789       10
+"010019"        82.97222222222223       24
+"010021"        85.88888888888889       34
+
+As can be seen there is no correlation between  patient survey response and average scores for
+hospital quality.        
+
