@@ -12,5 +12,4 @@ providerid      average hospital score  survey score
 "010021"        85.88888888888889       34
 
 As can be seen there is no correlation between  patient survey response and average scores for
-hospital quality.        
-
+hospital quality. 
